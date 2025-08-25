@@ -52,7 +52,7 @@ Metric	Score
 Hit@10	~0.17
 NDCG@10	~0.09
 
-## Reference（二级标题）
+## Reference
 Paper:https://arxiv.org/abs/2305.05065
 Dataset:https://grouplens.org/datasets/movielens/1m/
 
